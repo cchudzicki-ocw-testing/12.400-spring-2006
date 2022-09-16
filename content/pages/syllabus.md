@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section contains course calendar, required texts, reading
+  assignments, homework, grading policy, absence policy, and academic dishonesty.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
